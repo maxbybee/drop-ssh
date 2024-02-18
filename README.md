@@ -1,2 +1,2 @@
 # drop-ssh
-Drops SSH
+Drops SSH if too many connections in given time
